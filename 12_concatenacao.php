@@ -23,4 +23,10 @@ echo '<br>';
 
 echo $nome. ' foi responsavel pela fundacao do ' .$empresa;
 
+echo '<hr>';
+echo '<br>';
+
+
+echo "o {$nome} é o fundador da empresa <br>: {$empresa}";
+
 ?>
