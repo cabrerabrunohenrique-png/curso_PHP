@@ -1,0 +1,14 @@
+<?php
+
+$var1 ='joao';
+$var2 = 'da silva';
+
+//echo $var1 .' '. $var2 .' '. 12
+
+//"." serve para juntar E NAO SOMAR
+
+$var3 = $var1 .' '. $var2 . ' ' . 12;
+echo $var3;
+
+
+?>
