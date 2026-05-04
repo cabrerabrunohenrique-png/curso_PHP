@@ -16,4 +16,11 @@ $empresa = 'Senac Americana';
 
 echo 'o '. $nome.' é fundador da Empresa: ' .$empresa;
 
+
+echo '<hr>';
+echo '<br>';
+
+
+echo $nome. ' foi responsavel pela fundacao do ' .$empresa;
+
 ?>
