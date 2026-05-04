@@ -8,7 +8,12 @@ $var2 = 'da silva';
 //"." serve para juntar E NAO SOMAR
 
 $var3 = $var1 .' '. $var2 . ' ' . 12;
-echo $var3;
+//echo $var3;
 
+
+$nome ='Rubens Pereira';
+$empresa = 'Senac Americana';
+
+echo 'o '. $nome.' é fundador da Empresa: ' .$empresa;
 
 ?>
