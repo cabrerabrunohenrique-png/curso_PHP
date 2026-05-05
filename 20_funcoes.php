@@ -2,7 +2,7 @@
 
 
 function funcaoTeste (){
-    return 'sou uma função <br>';
+    return 'i am studying <br>';
 }
 
 echo funcaoTeste();
