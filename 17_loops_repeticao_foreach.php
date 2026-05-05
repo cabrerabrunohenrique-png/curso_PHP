@@ -1,6 +1,6 @@
 <?php
 
-$nome = [
+$nomes = [
     'aluno1' => 'erica',
     'aluno2' => 'ana',
     'aluno3' => 'igor',
@@ -14,7 +14,7 @@ $nome = [
 
 foreach ($nomes as $chave => $nome)
     {
-        echo"{$nome} <br>";
+        echo"{$nome}";
     }
 
 
