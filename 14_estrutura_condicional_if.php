@@ -12,4 +12,14 @@ if ($numeroUm == $numeroDois){
 }
 
 
+echo '<hr>';
+
+if ($numeroUm <20 ){
+    echo 'é menor!';
+} else
+{
+    echo 'é maior';
+}
+
+
 ?>
