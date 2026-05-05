@@ -34,6 +34,8 @@ $nomes = [
         echo "{$i} <br>";
     }
 
+    echo "<br>"."<hr>";
+
 
 
 ?>
