@@ -9,7 +9,7 @@ echo 'o ano atul:' . date('Y') . '<br>';
 echo 'o mes atul:' . date('m') . '<br>';
 echo 'o dia atul:' . date('d') . '<br>';
 echo 'A data atual:' . date('d/m/y') . '<br>';
-echo 'Hora atual' . date('H/i/s') . '<br>';
+echo 'Hora atual ' . date('H:i:s') . '<br>';
 
 
 
